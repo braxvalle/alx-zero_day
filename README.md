@@ -1,1 +1,1 @@
-My first readme
+Am chris and now i can code.
